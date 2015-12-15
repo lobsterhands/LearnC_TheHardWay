@@ -20,6 +20,5 @@ int main(int argc, char *argv[])
 
     printf("My whole name is %s %c %s.\n", first_name, middle_initial, last_name);
 
-
     return 0;
 }
